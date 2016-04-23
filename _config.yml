@@ -1,0 +1,14 @@
+layout_spectrum: 0.9962073
+color:
+  saturation: 0.1192852
+  lightness: 0.9818119
+  brandStrength: 0.9057776
+  brandColors:
+    - '#151515'
+    - '#FFFFFF'
+    - '#DADADA'
+    - '#707070'
+    - '#404040'
+  rhythmicContrast: 0.5743651
+typography_spectrum: 0.3193413
+name: Mastering
